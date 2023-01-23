@@ -38,3 +38,8 @@ Currently, I'm looking for internship oppurtunities involving software and web d
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=oscoson&show_icons=true&theme=transparent">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscoson&layout=compact&theme=transparent">
+</div>
