@@ -1,4 +1,4 @@
-# Hey there! I'm Oscar San 👋
+# Hey There! I'm Oscar San 👋
 
 <!--
 **oscoson/oscoson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 Thanks for checking out my github profile! I'm a 20 year-old student developer from Vaughan, Ontario who's studying computer science at Queen's University. <br>
 Currently, I'm looking for internship oppurtunities involving software and web development starting this Summer/Fall. <br>
 
-## Looking to Contact Me? Let's Chat!
+## Looking To Contact Me? Let's Chat!
 [![Gmail Badge](https://img.shields.io/badge/-oscarsani007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oscarsani007@gmail.com)](mailto:oscarsani007@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Oscar_San-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osan/)](https://www.linkedin.com/in/osan/)
 
-## Familiar Languages & Technologies I use!
+## Familiar Languages & Technologies I Use!
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
