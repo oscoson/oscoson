@@ -5,7 +5,6 @@
 -->
 
 Thanks for checking out my github profile! I'm a 20 year-old student developer studying computer science at Queen's University. <br>
-Currently, I'm looking for internship opportunities involving software and web development starting this Summer/Fall. <br>
 
 ## Looking To Contact Me? Let's Chat!
 [![Gmail Badge](https://img.shields.io/badge/-oscarsani007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oscarsani007@gmail.com)](mailto:oscarsani007@gmail.com)
