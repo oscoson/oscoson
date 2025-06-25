@@ -4,7 +4,7 @@
 **oscoson/oscoson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Thanks for checking out my github profile! I'm a 22 year-old software developer, graduated in computer science at Queen's University. <br>
+Thanks for checking out my github profile! I'm a 22 year-old software developer, graduated in computer science from Queen's University. <br>
 
 ## Looking To Contact Me? Let's Chat!
 [![Gmail Badge](https://img.shields.io/badge/-oscarsani007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oscarsani007@gmail.com)](mailto:oscarsani007@gmail.com)
