@@ -29,6 +29,5 @@ Thanks for checking out my github profile! I'm a 22 year-old software developer,
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscoson&show_icons=true&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscoson&layout=compact&theme=transparent&hide=shaderlab,hlsl">
 </div>
