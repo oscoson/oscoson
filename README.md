@@ -27,7 +27,3 @@ Thanks for checking out my github profile! I'm a 23 year-old software developer,
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscoson&layout=compact&theme=transparent&hide=shaderlab,hlsl">
-</div>
